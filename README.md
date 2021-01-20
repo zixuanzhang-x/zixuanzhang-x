@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Web applications and DevOps interest me the most!
 - 📫 How to reach me: zhan7230@umn.edu
 - 🧑‍💻 [Blog](https://jonathanzhang98.github.io/) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/llewyn-zixuan-zhang-215395190/)
+- 😄 Pronouns: He/Him/His
