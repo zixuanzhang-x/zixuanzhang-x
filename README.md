@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m an incoming software engineer at Bloomberg.
 - 🌱 Web applications and DevOps interest me the most!
 - 📫 How to reach me: zhan7230@umn.edu
-- 🧑‍💻 [Blog](https://zixuanzhang.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/llewyn-zixuan-zhang-215395190/)
+- 🧑‍💻 [Blog](https://zixuanzhang.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/zixuanzhang98/)
 - 😄 Pronouns: He/Him/His
