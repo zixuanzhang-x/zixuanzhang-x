@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zixuanzhang.x@gmail.com
 - 🧑‍💻 [Blog](https://zixuanzhang.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/zixuanzhang98/)
 - 😄 Pronouns: He/Him/His
+- My other GitHub account I used when I was in school: @jonathanzhang98
