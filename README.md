@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Software Engineer at Bloomberg woking on stream processing applications.
+- 🔭 I’m a Software Engineer at Bloomberg woking on stream processing applications and security platform.
 - 🌱 Web applications and data pipelines interest me the most! And I’m currently learning Rust and Kotlin.
 - 📫 How to reach me: zixuanzhang.x@gmail.com
 - 🧑‍💻 [Blog](https://zixuanzhang.com) | 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/zixuanzhang98/)
